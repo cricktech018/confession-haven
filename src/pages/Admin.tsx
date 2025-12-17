@@ -8,7 +8,7 @@ import ConfessionSkeleton from '@/components/confession/ConfessionSkeleton';
 import { useConfessions, useDeleteConfession } from '@/hooks/useConfessions';
 import { cn } from '@/lib/utils';
 
-const ADMIN_PASSWORD = 'confessly2024';
+const ADMIN_PASSWORD = 'pr4kash18';
 
 const Admin = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
